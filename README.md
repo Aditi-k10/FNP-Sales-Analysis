@@ -46,11 +46,6 @@ The analysis is based on multiple datasets:
 
 ---
 
-## 📸 Dashboard Preview
-
-![Dashboard](dashboard img.png)
-
----
 
 ## 📌 Conclusion
 
